@@ -75,6 +75,12 @@ const boards = {
     hasSwitch: false,
     buttons: 1,
   },
+  BoatTracker: {
+    colorOrder: 'GRB',
+    neopixels: 1,
+    hasSwitch: false,
+    buttons: 1,
+  },
   unknown: {
     colorOrder: 'GRB',
     neopixels: 1,
